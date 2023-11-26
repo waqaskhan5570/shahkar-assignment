@@ -8,11 +8,13 @@ In the project directory, you can run:
 
 In order for first setup make sure you have Node v18 installed and yarn.
 
-TO check your current Node version use `node -v`
+To check your current Node version use `node -v`
 
 To install Node v18 using `nvm` try this command ( Make sure you have nvm installed first, to check try nvm -v )
-nvm install 18
-nvm use 18
+
+`nvm install 18`
+
+`nvm use 18`
 
 To install and use node v18.
 
