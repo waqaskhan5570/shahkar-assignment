@@ -89,7 +89,7 @@ const UserDetails = () => {
       <Container className="mt-5">
         <Row className="justify-content-md-center">
           <Col md={8}>
-            <h2 className="text-center mb-4">Patient Information Form</h2>
+            <h2 className="text-center mb-4">User Information Form</h2>
             <Form onSubmit={handleSubmit}>
               <Form.Group controlId="formName">
                 <Form.Label>Name</Form.Label>
